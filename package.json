@@ -1,0 +1,9 @@
+{
+  "name": "Hunted.io",
+  "version": "1.0.0",
+  "description": "hunting cool stuff",
+  "main": "index.js",
+  "repository": "https://github.com/cdavilarios/cdavilarios.github.io.git",
+  "author": "Clau <clau.davila3@gmail.com>",
+  "license": "MIT"
+}
